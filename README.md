@@ -17,3 +17,21 @@ On ajoute du code HTML.
 ```html
 <h1>test</h1>
 ```
+
+## Nouveau titre
+
+Un petit de code `<p>lorem</p>`
+
+### Une liste HTML
+
+- item 1
+- item 2
+- item 3
+
+* item 1
+* item 2
+* item 3
+
+### Un lien HTML
+
+[Aller sur google](http://google.com)
